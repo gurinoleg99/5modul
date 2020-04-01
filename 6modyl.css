@@ -1,0 +1,194 @@
+.p{
+left: 500px;
+position: absolute;
+}
+.pond{
+left: 400px;
+position: absolute;
+margin-top: 30px;
+
+}
+.zn{
+    margin-top: 70px;
+}
+.z{
+    margin-top: 40px;
+}
+.q{
+    /* margin-top: 50px; */
+    position: absolute;
+    left: 100px;
+    margin-top: 130px;
+}
+.v{
+position: absolute;
+left: 500px;
+z-index: +1;
+margin-top: 20px;
+}
+.w{
+    position: absolute;
+    left: 500px;
+    z-index: +1;
+    margin-top: 0px;
+    }
+    .k{
+        position: absolute;
+        left: 100px;
+        margin-top: 170px;
+    }
+.na{
+    margin-top: 150px;
+}
+.l{
+    margin-top: 30px;
+}
+.n{
+    position: absolute;
+    left: 510px;
+    z-index: +1;
+    margin-top: 200px;
+}
+.ch{
+    position: absolute;
+    left: 450px;
+    margin-top: 170px;
+}
+.par{
+    position: absolute;
+    left: 450px;
+    margin-top: 250px;
+}
+.ac{
+position: absolute;
+left: 450px;
+margin-top: 100px;
+}
+.pa{
+    position: absolute;
+    left: 450px;
+    margin-top: 220px;
+}
+.o{
+    position: absolute;
+    left: 520px;
+    margin-top: 150px;
+    z-index: +1;
+}
+.panda{
+    position: absolute;
+    left: 980px;
+    margin-top: 485px;
+}
+.dog{
+    position: absolute;
+    left: 970px;
+    margin-top: 150px;
+}
+.fish{
+    position: absolute;
+    left: 900px;
+    margin-top: 300px;
+}
+.kot{
+    position: absolute;
+    left: 900px;
+    margin-top: 530px;
+}
+.hk{
+    position: absolute;
+    left: 900px;
+    margin-top: 470px;
+}
+.ki{
+    position: absolute;
+    left: 900px;
+    margin-top: 130px;
+}
+.puk{
+    position: absolute;
+    left: 900px;
+    margin-top: 220px;
+}
+.c{
+display: flex;
+justify-content: flex-end;
+position: absolute;
+left: 900px;
+margin-top: 100px;
+}
+.b{
+ display: flex;
+ justify-content: center;
+ position: absolute;
+left: 500px;
+margin-top: 100px;
+}
+.a{
+display: flex;
+position: absolute;
+left: 50px;
+margin-top: 100px;
+}
+.e{
+    margin-top: 600px;
+    position: absolute;
+    left: 50px;
+}
+.f{
+    margin-top: 580px;
+    position: absolute;
+    left: 500px;
+}
+.j{
+    margin-top: 600px;
+    position: absolute;
+    left: 500px;
+}
+.h{
+    margin-top: 580px;
+    position: absolute;
+left: 900px;
+}
+.i{
+    margin-top: 600px;
+    position: absolute;
+left: 900px;
+}
+.d{
+    margin-top: 570px;
+    position: absolute;
+left: 50px;
+}
+.bu{
+color: rgb(4, 247, 255);
+position: absolute;
+left: 20px;
+width: 50px;
+height: 30px;
+}
+.ut{
+    color: rgb(4, 247, 255); 
+    left: 890px;
+    position: absolute; 
+}
+.tt{
+    color: rgb(4, 247, 255); 
+    left: 970px;
+    position: absolute;  
+}
+.to{
+    color: rgb(4, 247, 255);
+    left: 1060px;
+    position: absolute;
+}
+.on{
+    color: rgb(4, 247, 255);
+    left: 1130px;   
+    position: absolute;
+}
+.nb{
+    color: rgb(4, 247, 255); 
+    left: 1200px;
+    position: absolute;
+}
